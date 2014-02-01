@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="hello">Hello World, CrawsActivity!</string>
+    <string name="hello">Welcome to Craws Media Technologies</string>
     <string name="app_name">Craws</string>
 
 </resources>
